@@ -13,7 +13,7 @@ body {
 }
 
 li {
-    list-style-image: url("https://github.com/franzz1001/Project-Poetry-style-BSIT2F-MATEO/blob/dab4f4b2fb5a31bb860910ec0e4da75fe6c222ca/icon.png");
+    list-style-image: url(/icon.png");
     line-height: 1.6em;
 }
 
