@@ -82,5 +82,19 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #004223; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1) inset; 
-
 }
+
+@media screen and (max-width: 768px) {
+    
+    body {
+        font-size: 14px;
+    }
+    table {
+        font-size: 14px; 
+    }
+    input[type="submit"] {
+        padding: 10px 20px; 
+    }
+   
+    }
+
