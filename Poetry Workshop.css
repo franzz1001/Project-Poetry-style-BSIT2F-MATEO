@@ -8,7 +8,7 @@ body {
 }
 
 ul {
-    list-style-image: url('https://github.com/franzz1001/Project-Poetry-style-BSIT2F-MATEO/blob/08e81308e393700a1a197063f5b28b505ec49d3c/icon-plus.png');
+    list-style-image: url('/icon-plus.png');
     line-height: 1.6em;
     text-align: left;
     padding-left: 20px;
@@ -84,4 +84,3 @@ input[type="submit"]:hover {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1) inset; 
 
 }
-
