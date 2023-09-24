@@ -8,7 +8,7 @@ body {
 }
 
 ul {
-    list-style-image: url('/icon-plus.png');
+    list-style-image: url('icon-plus.png');
     line-height: 1.6em;
     text-align: left;
     padding-left: 20px;
