@@ -8,7 +8,7 @@ body {
 }
 
 ul {
-    list-style-image: url('https://github.com/franzz1001/Project-Poetry-style-BSIT2F-MATEO/blob/93b12ca1b55c74912f271db902df5416ed239a38/icon.png');
+    list-style-image: url('');
     line-height: 1.6em;
     text-align: left;
     padding-left: 20px;
@@ -19,7 +19,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     border-spacing: 0;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), 0 0 20px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), 0 0 20px rgba(0, 0, 0, 0.1) inset; 
 }
 
 th, td {
@@ -33,11 +33,11 @@ th, td {
 
 tr.head th {
     color: #fff;
-    background-color: #0047a5;
+    background-color: #4f77ac; 
     text-align: center;
     border: none;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), 0 0 20px rgba(0, 0, 0, 0.2) inset;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), 0 0 20px rgba(0, 0, 0, 0.2) inset; 
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 }
 
@@ -46,7 +46,7 @@ td {
 }
 
 tr.even td, tr.even th {
-    background-color: #f9f9f9;
+    background-color: #f9f9f9; 
 }
 
 fieldset {
@@ -72,15 +72,16 @@ input[type="submit"] {
     padding: 12px 24px;
     border: none;
     outline: none;
-    background-color: #359e04;
+    background-color: #006d31;
     color: #fff;
     cursor: pointer;
     border-radius: 5px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1) inset; 
 }
 
 input[type="submit"]:hover {
-    background-color: #0c5a05;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1) inset;
+    background-color: #004223; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.1) inset; 
+
 }
 
