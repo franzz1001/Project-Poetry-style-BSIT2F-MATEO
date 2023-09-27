@@ -3,7 +3,7 @@
             font-family: Arial, sans-serif;
             font-size: 16px;
             color: #242424;
-            background-image: url('https://github.com/franzz1001/Project-Poetry-style-BSIT2F-MATEO/blob/main/logotransparent-removebg-preview.png?raw=true');
+            background-image: url('https://images.pexels.com/photos/1110506/pexels-photo-1110506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
             background-size: cover;
             background-repeat: no-repeat;
             text-align: center;
@@ -36,7 +36,7 @@
             position: relative;
             margin: 10px 0;
             padding-left: 30px;
-            background: url('https://github.com/franzz1001/Project-Poetry-style-BSIT2F-MATEO/blob/main/icon.png?raw=true') no-repeat 5px center;
+            background: url('https://o.remove.bg/downloads/b519cb7d-2243-461d-819e-754261b131bb/icon_check-removebg-preview.png') no-repeat 5px center;
             background-size: 20px 20px;
             font-size: 16px;
             font-weight: bold;
@@ -143,5 +143,7 @@
                 width: 100%;
             }
         }
+
+
 
 
